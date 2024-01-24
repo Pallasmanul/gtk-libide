@@ -1,0 +1,6 @@
+
+#pragma once
+
+
+#define APP_ID "@APPLICATION_ID@"
+#define GETTEXT_PACKAGE "@PACKAGE_NAME@"
